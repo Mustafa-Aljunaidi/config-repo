@@ -1,3 +1,3 @@
 test:
   data:
-    welcome-statement: "Hello 1-prod"
+    welcome-statement: "{cipher}ab3afef3062bee4dd5c531da79a5e988052dae4e0db6f79524bf15d69c82c83a"
